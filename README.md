@@ -1,0 +1,1 @@
+nas palavras chave só coloca qualquer palavra que quiser que vai criar os gráficos automaticamente
